@@ -12,7 +12,27 @@ Si te ha servido este repositorio, no te olvides de darle una estrella.
 
 # Video
 
-https://youtu.be/nbRQM8HMeY0
+[Introducción](https://www.youtube.com/watch?v=nbRQM8HMeY0&t=0s) 
+
+[Herramientas necesarias](https://www.youtube.com/watch?v=nbRQM8HMeY0&t=74s)
+
+[Creación proyecto](https://www.youtube.com/watch?v=nbRQM8HMeY0&t=185s)
+
+[Base lógica de nuestra app](https://www.youtube.com/watch?v=nbRQM8HMeY0&t=327s)
+
+[HTML](https://www.youtube.com/watch?v=nbRQM8HMeY0&t=497s)
+
+[Reseteando el contador](https://www.youtube.com/watch?v=nbRQM8HMeY0&t=1095s)
+
+[Guardando el contador con preferences](https://www.youtube.com/watch?v=nbRQM8HMeY0&t=1289s)
+
+[Testing](https://www.youtube.com/watch?v=nbRQM8HMeY0&t=1678s)
+
+[Generar iconos](https://www.youtube.com/watch?v=nbRQM8HMeY0&t=2055s)
+
+[Compilar para Android](https://www.youtube.com/watch?v=nbRQM8HMeY0&t=2249s)
+
+[Compilar para IOS](https://www.youtube.com/watch?v=nbRQM8HMeY0&t=2455s)
 
 # Enlaces
 
