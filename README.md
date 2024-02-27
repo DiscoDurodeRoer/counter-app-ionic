@@ -17,11 +17,20 @@ https://youtu.be/nbRQM8HMeY0
 # Enlaces
 
 Curso udemy ionic: https://www.udemy.com/course/aprende-ionic-con-proyectos-practicos/
+
 NodeJS: https://nodejs.org/en
+
 Ionic cli: https://ionicframework.com/docs/cli 
+
 ionicicons: https://ionic.io/ionicons
+
 ionic css utilities: https://ionicframework.com/docs/layout/css-utilities
+
 Preferences capacitor: https://capacitorjs.com/docs/apis/preferences
+
 @capacitor/assets: https://capacitorjs.com/docs/guides/splash-screens-and-icons
+
 JDK adoptium: https://adoptium.net/es/
+
 Android studio: https://developer.android.com/studio?hl=es-419
+
