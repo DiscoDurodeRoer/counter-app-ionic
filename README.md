@@ -1,6 +1,6 @@
 # Tu primera app con IONIC
 
-Arranca en ionic haciendo una app standalone completa desde 0 hasta tenerla en tu dispositivo móvil, ya sea android o ios, pasando por toda la funcionalidad y testeando la aplicación para comprobar que todo funcione correctamente.
+Arranca en ionic 7 haciendo una app standalone completa desde 0 hasta tenerla en tu dispositivo móvil, ya sea android o ios, pasando por toda la funcionalidad y testeando la aplicación para comprobar que todo funcione correctamente.
 
 Si te ha servido este repositorio, no te olvides de darle una estrella.
 
