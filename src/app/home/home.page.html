@@ -1,0 +1,21 @@
+<ion-header class="ion-no-border ion-padding">
+  <ion-button id="button-up" class="ion-top-margin ion-bottom-margin" expand="block" (click)="up()" [disabled]="num==MAX">
+    <ion-icon name="chevron-up-outline"></ion-icon>
+  </ion-button>
+</ion-header>
+
+<ion-content class="no-scroll">
+  <ion-grid class="center-content">
+    <ion-row>
+      <ion-col>
+        <ion-text (click)="reset()">{{num}}</ion-text>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+</ion-content>
+
+<ion-footer  class="ion-no-border ion-padding">
+  <ion-button id="button-down" class="ion-top-margin ion-bottom-margin" expand="block" (click)="down()" [disabled]="num==MIN">
+    <ion-icon name="chevron-down-outline"></ion-icon>
+  </ion-button>
+</ion-footer>
